@@ -9,6 +9,6 @@ class Controller extends BaseController
     //
     public function test()
     {
-        echo "haha";
+        echo "kukuku";
     }
 }
