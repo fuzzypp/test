@@ -11,6 +11,6 @@
 |
 */
 
-$router->get('/', function () use ($router) {
+$router->get('/test', function () use ($router) {
     return $router->app->version();
 });
