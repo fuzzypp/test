@@ -27,6 +27,6 @@ class User extends Model implements AuthenticatableContract, AuthorizableContrac
      * @var array
      */
     protected $hidden = [
-        'pasqweqweswoqrd128888883',
+        'passwoqrd128888883qqqqqqqqqqqqqqqqqqqqq',
     ];
 }
